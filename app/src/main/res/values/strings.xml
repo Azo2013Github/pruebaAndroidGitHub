@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica3</string>
+    <string name="imagenature">imageTree</string>
+    <string name="milisegundos">Millisegundos</string>
+    <string name="leftButtonApp">ME GUSTA</string>
+    <string name="rightButton">NO ME GUSTA</string>
+</resources>
